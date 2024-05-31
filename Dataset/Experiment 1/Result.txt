@@ -1,0 +1,8 @@
+DFS Minimum cost path with cost 252.098145: 1 6 8 10 9 1
+46.191200 ms.
+
+UCS minimum cost path: 1 6 8 10 9 1 with a Total Cost of 252.098145
+0.532200 ms.
+
+A* minimum cost path: 1 6 8 10 9 1 with a Total Cost of 252.098145
+0.700000 ms.
